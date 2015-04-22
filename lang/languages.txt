@@ -1,0 +1,129 @@
+af Afrikaans 
+ar-sa Arabic (Saudi Arabia) 
+ar-eg Arabic (Egypt) 
+ar-dz Arabic (Algeria) 
+ar-tn Arabic (Tunisia) 
+ar-ye Arabic (Yemen) 
+ar-jo Arabic (Jordan) 
+ar-kw Arabic (Kuwait) 
+ar-bh Arabic (Bahrain) 
+eu Basque 
+be Belarusian 
+bs-BA-Cyrl Bosnian (Bosnia and Herzegovina, Cyrillic) 
+bs-BA-Latn Bosnian (Bosnia and Herzegovina, Latin) 
+hr-BA Croatian (Bosnia and Herzegovina, Latin) 
+hr-HR Croatian (Croatia) 
+sr-BA-Cyrl Serbian (Bosnia, and Herzegovina, Cyrillic) 
+sr-BA-Latn Serbian (Bosnia, and Herzegovina, Latin) 
+sr-SP-Cyrl Serbian (Serbia and Montenegro, Cyrillic) 
+sr-SP-Latn Serbian (Serbia and Montenegro, Latin) 
+zh-tw Chinese (Taiwan) 
+zh-hk Chinese (Hong Kong SAR) 
+da Danish 
+nl-be Dutch (Belgium) 
+en-us English (United States) 
+en-au English (Australia) 
+en-nz English (New Zealand) 
+en-za English (South Africa) 
+en English (Caribbean) 
+en-tt English (Trinidad) 
+fo Faeroese 
+fi Finnish 
+fr-be French (Belgium) 
+fr-ch French (Switzerland) 
+gd Gaelic (Scotland) 
+de German (Standard) 
+de-at German (Austria) 
+de-li German (Liechtenstein) 
+he Hebrew 
+hu Hungarian 
+id Indonesian 
+it-ch Italian (Switzerland) 
+ko Korean 
+lv Latvian 
+mk FYRO Macedonian
+mt Maltese 
+no Norwegian (Nynorsk) 
+pt-br Portuguese (Brazil) 
+rm Rhaeto-Romanic 
+ro-mo Romanian (Moldavia) 
+ru-mo Russian (Moldavia) 
+sk Slovak 
+sb Sorbian 
+es-mx Spanish (Mexico) 
+es-gt Spanish (Guatemala) 
+es-pa Spanish (Panama) 
+es-ve Spanish (Venezuela) 
+es-pe Spanish (Peru) 
+es-ec Spanish (Ecuador) 
+es-uy Spanish (Uruguay) 
+es-bo Spanish (Bolivia) 
+es-hn Spanish (Honduras) 
+es-pr Spanish (Puerto Rico) 
+sv Swedish 
+th Thai 
+tn Tswana 
+uk Ukrainian 
+ve Venda 
+xh Xhosa 
+zu Zulu 
+sq Albanian 
+ar-iq Arabic (Iraq) 
+ar-ly Arabic (Libya) 
+ar-ma Arabic (Morocco) 
+ar-om Arabic (Oman) 
+ar-sy Arabic (Syria) 
+ar-lb Arabic (Lebanon) 
+ar-ae Arabic (U.A.E.) 
+ar-qa Arabic (Qatar) 
+bg Bulgarian 
+ca Catalan 
+zh-cn Chinese (PRC) 
+zh-sg Chinese (Singapore) 
+cs Czech 
+nl Dutch (Standard) 
+en English 
+en-gb English (United Kingdom) 
+en-ca English (Canada) 
+en-ie English (Ireland) 
+en-jm English (Jamaica) 
+en-bz English (Belize) 
+et Estonian 
+fa Farsi 
+fr French (Standard) 
+fr-ca French (Canada) 
+fr-lu French (Luxembourg) 
+gd-ie Gaelic (Ireland) 
+de-ch German (Switzerland) 
+de-lu German (Luxembourg) 
+el Greek 
+hi Hindi 
+is Icelandic 
+it Italian (Standard) 
+ja Japanese 
+ko Korean (Johab) 
+lt Lithuanian 
+ms Malaysian 
+no Norwegian (Bokmal) 
+pl Polish 
+pt Portuguese (Portugal) 
+ro Romanian 
+ru Russian 
+sz Sami (Lappish) 
+sl Slovenian 
+es Spanish 
+es-cr Spanish (Costa Rica) 
+es-do Spanish (Dominican Republic) 
+es-co Spanish (Colombia) 
+es-ar Spanish (Argentina) 
+es-cl Spanish (Chile) 
+es-py Spanish (Paraguay) 
+es-sv Spanish (El Salvador) 
+es-ni Spanish (Nicaragua) 
+sx Sutu 
+sv-fi Swedish (Finland) 
+ts Tsonga 
+tr Turkish 
+ur Urdu 
+vi Vietnamese 
+ji Yiddish 

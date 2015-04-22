@@ -1,0 +1,7 @@
+LIBRARY Outlook
+
+EXPORTS
+	LoadContactsIntoDB  @1
+	StopLoadingContacts @2
+	AddNewOutlookContact @3
+	ViewOutlookContact @4
