@@ -48,6 +48,10 @@ For more information, see the [Bicom Systems](http://www.bicomsystems.com) websi
 
 [Documentation](http://www.bicomsystems.com/docs/outcall/1.0/html/)
 
+## Binaries ##
+
+Head over to the [releases](https://github.com/bicomsystems/outcall2/releases) page for the latest binaries.
+
 ## LICENSE ##
 
 [BSD](http://opensource.org/licenses/BSD-3-Clause)
