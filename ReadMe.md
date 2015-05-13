@@ -41,8 +41,7 @@ For more information, see the [Bicom Systems](http://www.bicomsystems.com) websi
 
 ## Building Notes ##
 
-  * Qt 5 32bit
-  * Microsoft Visual C++ Compiler 10.0 (x86)
+  * We used Qt 5 and Microsoft Visual Studio 2010 to compile the project
 
 ## Additional links ##
 
