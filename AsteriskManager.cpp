@@ -131,11 +131,11 @@ void AsteriskManager::setAsteriskVersion(const QString &msg)
     int index = msg.indexOf("/") + 1;
     QString ami = msg.mid(index);
 
-    if (ami.at(0) == "1")
+    if (ami.at(0) == '1')
     {
         m_currentVersion = VERSION_11;
     }
-    else if (ami.at(0) == "2")
+    else if (ami.at(0) == '2')
     {
         m_currentVersion = VERSION_13;
     }
