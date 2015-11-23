@@ -675,7 +675,7 @@ void AsteriskManager::originateCall(QString from, QString exten, QString protoco
 
     QString prefix = global::getSettingsValue("prefix", "dial_rules").toString();
 
-    exten += prefix;
+    exten = prefix + exten;
 
     const QString channel = protocol + "/" + from;
 
