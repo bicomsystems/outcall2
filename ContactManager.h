@@ -7,10 +7,12 @@
 #include <QHash>
 #include <QSqlDatabase>
 #include <QTimer>
+#include <QMutex>
 
 class QString;
 class SyncContactsThread;
 class QTimer;
+class QMutex;
 
 class AddOutlookContactThread : public QThread {
     Q_OBJECT
