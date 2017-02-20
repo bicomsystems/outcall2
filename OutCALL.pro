@@ -17,7 +17,7 @@ TEMPLATE = app
 LIBS +=	Shell32.lib \
         Advapi32.lib \
 
-
+TRANSLATIONS = translations/outcall_pt-br.ts \
 
 
 SOURCES += main.cpp\
